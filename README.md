@@ -1,5 +1,9 @@
 # LSTM Text Summarization – Amazon Fine Food Reviews
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-Notebook-orange?logo=googlecolab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
+
 ## Project Overview
 Text summarization is the task of creating a short, accurate, and fluent summary of a longer text document. It is a **Natural Language Processing (NLP)** application that produces meaningful summaries from lengthy paragraphs, helping us understand the essence of the text efficiently. With the ever-growing volume of text data online, automatic text summarization is essential for **discovering and consuming relevant information quickly**.
 
